@@ -1,2 +1,2 @@
-# javascripr
+# javascript
 javascript repo
